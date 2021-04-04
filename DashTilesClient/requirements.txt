@@ -3,4 +3,5 @@ dash-bootstrap-components
 dash-leaflet        
 PIL
 opencv-python-headless
-numpy                   
+numpy
+scanpy      
