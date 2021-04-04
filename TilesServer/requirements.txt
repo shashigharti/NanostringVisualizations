@@ -1,0 +1,5 @@
+terracotta
+rasterio
+opencv-python-headless
+numpy
+
