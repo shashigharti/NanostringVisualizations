@@ -4,7 +4,7 @@
 *Python API based on flask to serve large images as tiles.*
 
 ### Running server
-If innactive first requests is slow due to wake up of heroku
+If innactive first request is slow due to wake up of heroku
 URL: https://scantilesserver.herokuapp.com/apidoc
 
 ### Setup
