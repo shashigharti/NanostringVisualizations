@@ -60,6 +60,7 @@ top_right = html.Div([map_preview,map_dropdown],className='row')
 
 # Layout
 app = dash.Dash(external_stylesheets=[dbc.themes.SANDSTONE])
+server = app.server
 app.layout = html.Div([
     
     #Left

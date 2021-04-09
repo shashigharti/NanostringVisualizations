@@ -1,4 +1,7 @@
 # Dash inmunofluorescence map
+## Running app
+Slow wake ups due to heroku free tier
+URL: https://nanotiles.herokuapp.com/
 
 ## Setup
 

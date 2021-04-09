@@ -3,6 +3,9 @@
 [Terracotta](https://terracotta-python.readthedocs.io/en/latest/)
 *Python API based on flask to serve large images as tiles.*
 
+### Running server
+If innactive first requests is slow due to wake up of heroku
+URL: https://scantilesserver.herokuapp.com/apidoc
 
 ### Setup
 
