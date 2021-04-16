@@ -10,7 +10,7 @@ from data import available_datasets,TerraScan,df_to_anndata
 import figures
 
 attribution = 'Nanostring DSP'
-base_url = "http://localhost:5000"
+base_url = "https://scantilesserver.herokuapp.com"
 
 ##Raster data
 print("Loading inmunofluorescence raster data")
