@@ -6,6 +6,7 @@ import pandas as pd
 from PIL import Image
 import scanpy as sc
 from anndata import AnnData
+from collections import OrderedDict
 
 ##Raster data
 def available_datasets(base_url):
@@ -14,9 +15,10 @@ def available_datasets(base_url):
     input: root url pointing to the scan tiles provider
     output: datasets ids
     """    
-    band_key = "band_id"
+    response = requests.get(base_url+"/keys")
+    band_key = response.json()["keys"][-1]["key"]
+
     response = requests.get(base_url+"/datasets") 
-    
     datasets = response.json()["datasets"]
     datasets_df = pd.DataFrame.from_dict(datasets).drop(columns=band_key).drop_duplicates()
     datasets_ids = datasets_df.apply(lambda p:"/".join(p),axis=1)
