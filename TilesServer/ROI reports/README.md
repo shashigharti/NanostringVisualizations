@@ -1,3 +1,3 @@
 ### Source Data
 
-Here goes your unprocessed images
+Here goes your unprocessed images in png format.
