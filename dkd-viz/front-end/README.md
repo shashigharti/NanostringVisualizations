@@ -1,8 +1,8 @@
 # Core Module
 ## Getting Started
 1. npm install
-2. npm run build
-3. create a .env file
+2. create a .env file
+3. npm run watch
 
 ## Conventions for React
 https://github.com/airbnb/javascript/tree/master/react#naming
