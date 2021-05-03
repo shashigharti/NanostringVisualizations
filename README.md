@@ -11,7 +11,7 @@ Our approach makes use of spatial features extracted from the IF images by the p
 * Shashi Gharti(https://github.com/shashigharti)
 
 ## How to use the application
-### First Georeference IF images and serve images as tiles (Map Server)
+### First Georeference IF images and serve images as tiles (Image Server)
 To georeference and service the IF images we have used terracota server.
 
 Link: https://github.com/shashigharti/NanostringVisualizations/tree/main/TilesServer
