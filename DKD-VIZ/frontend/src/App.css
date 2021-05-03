@@ -1,0 +1,23 @@
+html {
+  font-size: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.text-primary-color {
+  color: #4e4c4c;
+}
+
+.bg-primary-color {
+  background-color: #ffffff;
+}
+
+.text-white {
+  color: #ffffff;
+}
+.text-grey {
+  color: #4e4c4c;
+}
+.text-natural-blue {
+  color: #54c6ff;
+}
