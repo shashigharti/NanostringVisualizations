@@ -13,7 +13,8 @@ Our approach makes use of spatial features extracted from the IF images by the p
 ## How to use the application
 ### First Georeference IF images and serve images as tiles (Map Server)
 To georeference and service the IF images we have used terracota server.
-Link:
+
+Link: https://github.com/shashigharti/NanostringVisualizations/tree/main/TilesServer
 
 ### Install flask server to serve interactive plots using bokeh library (Plot Server)
 We used flask server to serve the bokeh plots as html file.
