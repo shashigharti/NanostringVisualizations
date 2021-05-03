@@ -10,16 +10,16 @@ Daniel Last
 Theressa Lalanne
 Shashi Gharti
 
-### How to use the application
-## First Georeference IF images and serve images as tiles (Map Server)
+## How to use the application
+### First Georeference IF images and serve images as tiles (Map Server)
 To georeference and service the IF images we have used terracota server.
 Link:
 
-## Install flask server to serve interactive plots using bokeh library (Plot Server)
+### Install flask server to serve interactive plots using bokeh library (Plot Server)
 The steps to install and run the flask server
 Link:
 
-## Frontend (Reactjs and Leaflet)
+### Frontend (Reactjs and Leaflet)
 We used reactjs and leaflet to load and display the images and plots. 
 Link:
 
