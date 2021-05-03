@@ -5,10 +5,10 @@ Our approach makes use of spatial features extracted from the IF images by the p
 
 ![application](https://user-images.githubusercontent.com/5582809/116894905-50555f00-ac52-11eb-9ac4-f74ec2cc82cc.png)
 ## Team Member
-Anna Valyaeva
-Daniel Last
-Theressa Lalanne
-Shashi Gharti
+* Anna Valyaeva
+* Daniel Last
+* Theressa Lalanne
+* Shashi Gharti
 
 ## How to use the application
 ### First Georeference IF images and serve images as tiles (Map Server)
