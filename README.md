@@ -3,7 +3,7 @@ This project was initiated as the part of the competition hosted by Nanostring(h
 
 Our approach makes use of spatial features extracted from the IF images by the pre-trained neural network resnet50 and the ssGSEA enrichment scores. ssGSEA can be considered as the procedure for dimension reduction of gene expression data that successfully keeps biologically meaningful information about molecular processes in specific tissue regions. The neural network results in more than 2,000 features that are redundant and require some filtering. We decided to filter special features by coefficient of variation, as the most variable features should represent the heterogeneity of tissue and the difference between DKD and healthy samples. The selected spatial features made us able to map the correlated enriched gene sets onto the image and to see the tissue regions with elevated activity of specific biological processes.
 
-
+![application](https://user-images.githubusercontent.com/5582809/116894905-50555f00-ac52-11eb-9ac4-f74ec2cc82cc.png)
 ## Team Member
 Anna Valyaeva
 Daniel Last
