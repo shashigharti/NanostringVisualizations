@@ -17,11 +17,11 @@ Link:
 
 ### Install flask server to serve interactive plots using bokeh library (Plot Server)
 The steps to install and run the flask server
-Link:
+Link: https://github.com/shashigharti/NanostringVisualizations/tree/main/DKD-VIZ/backend
 
 ### Frontend (Reactjs and Leaflet)
 We used reactjs and leaflet to load and display the images and plots. 
-Link:
+Link: https://github.com/shashigharti/NanostringVisualizations/tree/main/DKD-VIZ/frontend
 
 
 
